@@ -1,0 +1,9 @@
+Package: com.leftyfl1p.advertidfaker
+Name: AdvertIDFaker
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fake your Advertising Identifier. Run aditfake in console to regenerate.
+Maintainer: leftyfl1p
+Author: leftyfl1p
+Section: Tweaks
